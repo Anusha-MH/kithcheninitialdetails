@@ -8,3 +8,9 @@ tomatobath
 new items included are:
 dosa
 papad
+
+new version:
+rasam
+papad
+rice
+idlli and sambar
